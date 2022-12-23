@@ -1,0 +1,17 @@
+C:\Visual Studio Projects\mindbox\FigureCalcApp\FigureCalcApp\bin\Debug\netcoreapp3.1\FigureCalcApp.exe
+C:\Visual Studio Projects\mindbox\FigureCalcApp\FigureCalcApp\bin\Debug\netcoreapp3.1\FigureCalcApp.deps.json
+C:\Visual Studio Projects\mindbox\FigureCalcApp\FigureCalcApp\bin\Debug\netcoreapp3.1\FigureCalcApp.runtimeconfig.json
+C:\Visual Studio Projects\mindbox\FigureCalcApp\FigureCalcApp\bin\Debug\netcoreapp3.1\FigureCalcApp.runtimeconfig.dev.json
+C:\Visual Studio Projects\mindbox\FigureCalcApp\FigureCalcApp\bin\Debug\netcoreapp3.1\FigureCalcApp.dll
+C:\Visual Studio Projects\mindbox\FigureCalcApp\FigureCalcApp\bin\Debug\netcoreapp3.1\FigureCalcApp.pdb
+C:\Visual Studio Projects\mindbox\FigureCalcApp\FigureCalcApp\bin\Debug\netcoreapp3.1\FigureLibrary.dll
+C:\Visual Studio Projects\mindbox\FigureCalcApp\FigureCalcApp\bin\Debug\netcoreapp3.1\FigureLibrary.pdb
+C:\Visual Studio Projects\mindbox\FigureCalcApp\FigureCalcApp\obj\Debug\netcoreapp3.1\FigureCalcApp.csproj.AssemblyReference.cache
+C:\Visual Studio Projects\mindbox\FigureCalcApp\FigureCalcApp\obj\Debug\netcoreapp3.1\FigureCalcApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio Projects\mindbox\FigureCalcApp\FigureCalcApp\obj\Debug\netcoreapp3.1\FigureCalcApp.AssemblyInfoInputs.cache
+C:\Visual Studio Projects\mindbox\FigureCalcApp\FigureCalcApp\obj\Debug\netcoreapp3.1\FigureCalcApp.AssemblyInfo.cs
+C:\Visual Studio Projects\mindbox\FigureCalcApp\FigureCalcApp\obj\Debug\netcoreapp3.1\FigureCalcApp.csproj.CoreCompileInputs.cache
+C:\Visual Studio Projects\mindbox\FigureCalcApp\FigureCalcApp\obj\Debug\netcoreapp3.1\FigureCalcApp.csproj.CopyComplete
+C:\Visual Studio Projects\mindbox\FigureCalcApp\FigureCalcApp\obj\Debug\netcoreapp3.1\FigureCalcApp.dll
+C:\Visual Studio Projects\mindbox\FigureCalcApp\FigureCalcApp\obj\Debug\netcoreapp3.1\FigureCalcApp.pdb
+C:\Visual Studio Projects\mindbox\FigureCalcApp\FigureCalcApp\obj\Debug\netcoreapp3.1\FigureCalcApp.genruntimeconfig.cache

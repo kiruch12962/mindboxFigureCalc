@@ -1,0 +1,9 @@
+C:\Visual Studio Projects\mindbox\FigureLibrary\bin\Debug\netcoreapp3.1\FigureLibrary.deps.json
+C:\Visual Studio Projects\mindbox\FigureLibrary\bin\Debug\netcoreapp3.1\FigureLibrary.dll
+C:\Visual Studio Projects\mindbox\FigureLibrary\bin\Debug\netcoreapp3.1\FigureLibrary.pdb
+C:\Visual Studio Projects\mindbox\FigureLibrary\obj\Debug\netcoreapp3.1\FigureLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio Projects\mindbox\FigureLibrary\obj\Debug\netcoreapp3.1\FigureLibrary.AssemblyInfoInputs.cache
+C:\Visual Studio Projects\mindbox\FigureLibrary\obj\Debug\netcoreapp3.1\FigureLibrary.AssemblyInfo.cs
+C:\Visual Studio Projects\mindbox\FigureLibrary\obj\Debug\netcoreapp3.1\FigureLibrary.csproj.CoreCompileInputs.cache
+C:\Visual Studio Projects\mindbox\FigureLibrary\obj\Debug\netcoreapp3.1\FigureLibrary.dll
+C:\Visual Studio Projects\mindbox\FigureLibrary\obj\Debug\netcoreapp3.1\FigureLibrary.pdb
